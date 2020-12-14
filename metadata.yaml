@@ -1,10 +1,13 @@
 _repo: Puck-s-Broom-The-wonderful-adventures-of-George-Henry-his-dog-Alexander-who-went-to-seek-thei__64012
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Nixon, Kathleen I.
     gutenberg_agent_id: '52715'
     url: http://www.gutenberg.org/2009/agents/52715
+covers:
+- cover_type: archival
+  image_path: 64012-h/images/cover.jpg
 creator:
   author:
     agent_name: Browne, E. Gordon (Edgar Gordon)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '7060'
     url: http://www.gutenberg.org/2009/agents/7060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64012#Puck-s-Broom-The-wonderful-adventures-of-George-Henry-his-dog-Alexander-who-went-to-seek-thei_
 gutenberg_issued: '2020-12-11'
 gutenberg_type: Text
 identifiers:
